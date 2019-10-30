@@ -1,0 +1,26 @@
+.showroom{
+font-family: 'Lato', sans-serif;
+font-size: 50px;
+background-color: yellow;
+align-content: center;
+text-align:center;
+width: 500px;
+height: 500px;
+justify-content: center;
+align-items: center;
+display: flex;
+margin: 0 auto;
+}
+
+
+.imageAddress{
+    display: none
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 90px;
+    height: 90px;
+    margin: auto;
+
+
+}
